@@ -13,3 +13,5 @@ Data may be analysed and used later for predicting rating for particular movies.
 * Data modeling
 
 Data source: https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+Notebook in nbviewer: [link](https://nbviewer.jupyter.org/github/John-smith-889/movies-data-analysis/blob/master/movies_case_eda.ipynb)
